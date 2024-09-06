@@ -1,0 +1,17 @@
+class JogoCarta {
+    nome
+    qtdMinimaJogadores
+    qtdMaximaJogadores
+    idadeMinima
+    duracaoMediaMin
+    anoLancamento
+}
+
+object "<u>uno:Jogocarta</u>" as uno {
+    nome: "Uno"
+    qtdMinimaJogadores: 2
+    qtdMaximaJogadores: 10
+    idadeMinima: 5
+    duracaoMediaMin: 20
+    anoLancamento: 1971
+}
