@@ -6,10 +6,10 @@ class Artista {
     nacionalidade 
 }
 
-object "<u>Elis Regina:Artista</u>" as Elis Regina {
+object "<u>Elis Regina:Artista</u>" as "Elis Regina" {
     nome: "Elis Regina"
     anoNascimento: 1945
     nomeArtistico: "Elis Regina"
-    generoMusical: "mpb"
+    generoMusical: "MPB"
     nacionalidade: "brasileira"
 }
